@@ -1,0 +1,7 @@
+C:\Users\henrique.oandreotti\source\repos\Nível 1 - ER 4\Nível 1 - ER 4\bin\Debug\Nível 1 - ER 4.exe.config
+C:\Users\henrique.oandreotti\source\repos\Nível 1 - ER 4\Nível 1 - ER 4\bin\Debug\Nível 1 - ER 4.exe
+C:\Users\henrique.oandreotti\source\repos\Nível 1 - ER 4\Nível 1 - ER 4\bin\Debug\Nível 1 - ER 4.pdb
+C:\Users\henrique.oandreotti\source\repos\Nível 1 - ER 4\Nível 1 - ER 4\obj\Debug\Nível 1 - ER 4.csproj.AssemblyReference.cache
+C:\Users\henrique.oandreotti\source\repos\Nível 1 - ER 4\Nível 1 - ER 4\obj\Debug\Nível 1 - ER 4.csproj.CoreCompileInputs.cache
+C:\Users\henrique.oandreotti\source\repos\Nível 1 - ER 4\Nível 1 - ER 4\obj\Debug\Nível 1 - ER 4.exe
+C:\Users\henrique.oandreotti\source\repos\Nível 1 - ER 4\Nível 1 - ER 4\obj\Debug\Nível 1 - ER 4.pdb

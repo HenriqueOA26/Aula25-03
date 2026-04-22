@@ -1,0 +1,7 @@
+C:\Users\henrique.oandreotti\source\repos\Nível 2 - ER 7\Nível 2 - ER 7\bin\Debug\Nível 2 - ER 7.exe.config
+C:\Users\henrique.oandreotti\source\repos\Nível 2 - ER 7\Nível 2 - ER 7\bin\Debug\Nível 2 - ER 7.exe
+C:\Users\henrique.oandreotti\source\repos\Nível 2 - ER 7\Nível 2 - ER 7\bin\Debug\Nível 2 - ER 7.pdb
+C:\Users\henrique.oandreotti\source\repos\Nível 2 - ER 7\Nível 2 - ER 7\obj\Debug\Nível 2 - ER 7.csproj.AssemblyReference.cache
+C:\Users\henrique.oandreotti\source\repos\Nível 2 - ER 7\Nível 2 - ER 7\obj\Debug\Nível 2 - ER 7.csproj.CoreCompileInputs.cache
+C:\Users\henrique.oandreotti\source\repos\Nível 2 - ER 7\Nível 2 - ER 7\obj\Debug\Nível 2 - ER 7.exe
+C:\Users\henrique.oandreotti\source\repos\Nível 2 - ER 7\Nível 2 - ER 7\obj\Debug\Nível 2 - ER 7.pdb
